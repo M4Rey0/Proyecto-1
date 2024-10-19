@@ -13,4 +13,5 @@ public class Actividad {
 	private int resultado;
 	private ArrayList<Actividad> actividadesSugeridas;
 	private ArrayList<Actividad> prerrequisitos;
+  private String pruebaVim;
 }
